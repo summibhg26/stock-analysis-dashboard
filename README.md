@@ -41,7 +41,7 @@ To collect historical stock price data and quarterly revenue data for selected c
 * `stock_analysis_dashboard.ipynb` → Main notebook containing all code and visualizations
 
 ## 📊 Tesla Stock vs Revenue
-!images:tesla_graph.png
+![Tesla Graph](images:tesla_graph.png)
 
 ## 📊 GameStop Stock vs Revenue
 ![GameStop Graph](images/gme_graph.png)
