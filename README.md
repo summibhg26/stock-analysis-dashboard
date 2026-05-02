@@ -46,6 +46,30 @@ To collect historical stock price data and quarterly revenue data for selected c
 ## 📊 GameStop Stock vs Revenue
 ![GameStop Graph](Images/gme_graph.png)
 
+## 📈 Key Insights
+
+### Tesla (TSLA)
+
+* Tesla shows a strong upward trend in both stock price and revenue, especially after 2020
+* Revenue growth is consistent and aligns closely with the increase in stock price
+* This indicates that Tesla’s stock performance is driven by strong business fundamentals and expansion
+
+### GameStop (GME)
+
+* GameStop’s stock price remains relatively stable for years but shows a sharp spike around 2021
+* Revenue does not show a corresponding increase and remains mostly flat or declining
+* This suggests that the stock surge is driven by external market factors rather than company performance
+
+### 📊 Overall Comparison
+
+* Tesla demonstrates **fundamentally driven growth**, where stock price reflects revenue performance
+* GameStop exhibits **speculative behavior**, where stock price movements are not supported by financial data
+
+### 🧠 Conclusion
+
+Tesla represents a company with strong business growth reflected in its stock performance, while GameStop highlights how market dynamics can drive stock prices independently of company fundamentals.
+
+
 ## 📌 Notes
 
 * Data is limited to the time range available from the sources used
