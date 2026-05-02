@@ -40,16 +40,11 @@ To collect historical stock price data and quarterly revenue data for selected c
 
 * `stock_analysis_dashboard.ipynb` → Main notebook containing all code and visualizations
 
-## ▶️ How to Run
+## 📊 Tesla Stock vs Revenue
+![Tesla Graph](images/tesla_graph.png)
 
-1. Clone the repository:
-   git clone https://github.com/summibhg26/stock-analysis-dashboard.git
-
-2. Install required libraries:
-   pip install -r requirements.txt
-
-3. Open the notebook:
-   jupyter notebook
+## 📊 GameStop Stock vs Revenue
+![GameStop Graph](images/gme_graph.png)
 
 ## 📌 Notes
 
